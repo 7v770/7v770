@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Kruz</h1>
-<h3 align="center">Software Engineer | Moscow, Russia</h3>
+<h3 align="center">Software Engineer & Web Designer | Moscow, Russia</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Web+Designer+%26+Developer;Lua+%26+Discord+Developer;Cybersecurity+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,52 +13,88 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on **Web Design & Software Engineering** projects.
-- 🌱 I'm constantly learning and improving my skills in **modern web technologies**.
-- 👯 I'm looking to collaborate on **open source projects & innovative ideas**.
-- 💬 Ask me about **Full Stack Development, System Architecture, or my tech stack**.
-- 📫 Reach me at: **[kruzww@gmail.com](mailto:kruzww@gmail.com)**
-- ⚡ Fun fact: **I debug faster than I code! 😄**
+- 🔭 Currently working as a **Software Engineer & Web Designer**
+- 🛠️ Specialized in **Web Design, Software Engineering, and Security Research**
+- 🤖 Experienced in **Lua Development** & **Discord Bot Development**
+- 🎯 Passionate about **Reverse Engineering** & **Software Bypassing**
+- 💬 Ask me about **Full Stack Development, Lua, C++, or Game Security**
+- 📫 Reach me: **[kruzww@gmail.com](mailto:kruzww@gmail.com)**
+- ⚡ Fun fact: **I can bypass software restrictions and write cheats, but I use my powers for good! 😄**
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Proficiency
+
+#### 💻 Languages
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,py,django,postgresql,mongodb,git,docker,kubernetes,aws" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,py,lua,cs,java,ts,sql" />
+</p>
+
+<div align="center">
+
+| Language | Proficiency |
+|----------|-------------|
+| **C++** | ⭐⭐⭐⭐⭐ (Expert) |
+| **HTML & CSS** | ⭐⭐⭐⭐⭐ (Expert) |
+| **JavaScript** | ⭐⭐⭐⭐⭐ (Expert) |
+| **Python** | ⭐⭐⭐⭐ (Advanced) |
+| **Lua** | ⭐⭐⭐⭐ (Advanced) |
+| **C#** | ⭐⭐⭐ (Intermediate) |
+| **TypeScript** | ⭐⭐⭐ (Intermediate) |
+| **Java** | ⭐⭐ (Intermediate) |
+| **SQL** | ⭐⭐⭐ (Intermediate) |
+
+</div>
+
+#### 🗄️ Databases & SQL
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" />
+</p>
+
+<div align="center">
+
+| Database | Experience |
+|----------|------------|
+| **MySQL** | ⭐⭐⭐⭐ (Advanced) |
+| **PostgreSQL** | ⭐⭐⭐ (Intermediate) |
+| **MongoDB** | ⭐⭐⭐ (Intermediate) |
+| **SQLite** | ⭐⭐⭐⭐ (Advanced) |
+
+</div>
+
+#### 🎯 Specializations
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Web%20Design-FF6B6B?style=for-the-badge&logo=web&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software%20Engineering-4ECDC4?style=for-the-badge&logo=software&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua%20Developer-2C3E50?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord%20Developer-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software%20Bypassing-FF6B6B?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cheat%20Developer-E74C3C?style=for-the-badge&logo=game&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database%20Design-00758F?style=for-the-badge&logo=database&logoColor=white" />
 </p>
 
 ---
 
-### 📈 GitHub Analytics
+### 📊 Language Distribution
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=7v770&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7v770&layout=compact&theme=radical&langs_count=8" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7v770&layout=pie&theme=radical&langs_count=9" alt="Top Languages" width="50%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=7v770&theme=radical" alt="GitHub Streak" />
-</p>
+<details>
+<summary><b>📈 Detailed Breakdown</b></summary>
+<br>
 
----
-
-### 🏆 Achievements & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=7v770&theme=radical&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies" />
-</p>
-
----
-
-### 📊 Weekly Development Breakdown
-
-<!-- START_SECTION:waka -->
 ```text
-TypeScript   15 hrs  ███████████████░░░░░░░░   60%
-JavaScript   6 hrs   ███████░░░░░░░░░░░░░░░░   24%
-Python       2 hrs   ██░░░░░░░░░░░░░░░░░░░░░   8%
-HTML/CSS     1.5 hrs ██░░░░░░░░░░░░░░░░░░░░░   6%
-Other        0.5 hrs ░░░░░░░░░░░░░░░░░░░░░░░   2%
+C++          32%  ██████████████████████████░░░░
+HTML/CSS     18%  ██████████████████░░░░░░░░░░░░
+JavaScript   16%  ████████████████░░░░░░░░░░░░░░
+Python       11%  ██████████░░░░░░░░░░░░░░░░░░░░
+Lua          8%   ███████░░░░░░░░░░░░░░░░░░░░░░░
+C#           5%   █████░░░░░░░░░░░░░░░░░░░░░░░░░
+SQL          4%   ████░░░░░░░░░░░░░░░░░░░░░░░░░░
+TypeScript   3%   ███░░░░░░░░░░░░░░░░░░░░░░░░░░░
+Java         3%   ███░░░░░░░░░░░░░░░░░░░░░░░░░░░
